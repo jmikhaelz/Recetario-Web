@@ -42,7 +42,6 @@ Este proyecto es un recetario que incluye 12 recetas fáciles de hacer, dividida
 - **Nombre**: Jesús Miguel Zenteno
 - **Edad**: 19 años
 - **Carrera**: Ingeniería en Ciencias de la Computación en la BUAP
-- **Contacto**: jesus.miguel@alumno.buap.mx
 
 ## Información de la Materia
 
